@@ -1,2 +1,3 @@
 # dft-training
-Training materials for computing adsorption energies and other quantities with DFT
+
+This repository has training material for running DFT calculations on PACE-PHOENIX and PACE-HIVE. The training material convers basics of python that is required to write scripts for running DFT calculations. It introduces the Atomic Simulation Environment (ASE) that can be used to build molecules, bulk crystals, slabs and nanoparticles and ASE calculators that are required to calculate energetics of chemical systems. Next, it introduces the density functional theory (DFT) and the two DFT codes we utilize for research in our group, Quantum Espresso and SPARC. The aim of this training material is to learn how to build structures of chemical systems and perform DFT calculations to calculate the adsorption energies. 
